@@ -1,5 +1,4 @@
 import './App.css';
-// import 'bootstrap/dist/css/bootstrap.min.css'
 import NavBar from './components/NavBar';
 import Sliding from './components/Sliding';
 import Destination from './components/Destination';
