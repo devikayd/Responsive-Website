@@ -1,6 +1,3 @@
-#####** HERE IS THE LINK TO WEBSITE PREVIEW **#####
-
-LINK:::=>  https://devikayd.github.io/responsive-website/
 
 
 # Getting Started with Create React App
