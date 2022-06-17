@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Responsive-Website/static/css/main.bf1a0db0.css",
-    "main.js": "/Responsive-Website/static/js/main.2cba0ba0.js",
-    "static/js/787.ddc7e641.chunk.js": "/Responsive-Website/static/js/787.ddc7e641.chunk.js",
-    "static/media/boatimage.jpg": "/Responsive-Website/static/media/boatimage.169d1414974b2dc69b3d.jpg",
-    "static/media/ALAPUZHA.jpg": "/Responsive-Website/static/media/ALAPUZHA.f09a8e51231345fef7b9.jpg",
-    "static/media/waterfall.jpg": "/Responsive-Website/static/media/waterfall.924134514bb0a9c6392b.jpg",
-    "static/media/greenimg.jpg": "/Responsive-Website/static/media/greenimg.c9bb557ca9433dee454b.jpg",
-    "static/media/IMAGE.jpg": "/Responsive-Website/static/media/IMAGE.f82d8defd302e92d3def.jpg",
-    "static/media/thrissur.jpg": "/Responsive-Website/static/media/thrissur.99cfc7a5b160904b3242.jpg",
-    "static/media/beach.jpg": "/Responsive-Website/static/media/beach.93644760ab9a18238f06.jpg",
-    "static/media/peprew.jpg": "/Responsive-Website/static/media/peprew.ea76c2293e09cd3e181a.jpg",
-    "static/media/rewpeople.jpg": "/Responsive-Website/static/media/rewpeople.86f4e3d45664ed3d099e.jpg",
-    "static/media/kovalam.jpg": "/Responsive-Website/static/media/kovalam.732619b26fc460dc76c9.jpg",
-    "static/media/rewimage.jpg": "/Responsive-Website/static/media/rewimage.d23879b85530a47b4f57.jpg",
-    "static/media/landscapet.jpg": "/Responsive-Website/static/media/landscapet.3d9995c4c8f590f8c7a4.jpg",
-    "static/media/sea2.jpg": "/Responsive-Website/static/media/sea2.64bed040a5948c708e3b.jpg",
-    "static/media/munnarr.jpg": "/Responsive-Website/static/media/munnarr.0a4bb9e7029714263eca.jpg",
-    "index.html": "/Responsive-Website/index.html",
-    "main.bf1a0db0.css.map": "/Responsive-Website/static/css/main.bf1a0db0.css.map",
-    "main.2cba0ba0.js.map": "/Responsive-Website/static/js/main.2cba0ba0.js.map",
-    "787.ddc7e641.chunk.js.map": "/Responsive-Website/static/js/787.ddc7e641.chunk.js.map"
+    "main.css": "/responsive-website/static/css/main.bf1a0db0.css",
+    "main.js": "/responsive-website/static/js/main.73a65317.js",
+    "static/js/787.ddc7e641.chunk.js": "/responsive-website/static/js/787.ddc7e641.chunk.js",
+    "static/media/boatimage.jpg": "/responsive-website/static/media/boatimage.169d1414974b2dc69b3d.jpg",
+    "static/media/ALAPUZHA.jpg": "/responsive-website/static/media/ALAPUZHA.f09a8e51231345fef7b9.jpg",
+    "static/media/waterfall.jpg": "/responsive-website/static/media/waterfall.924134514bb0a9c6392b.jpg",
+    "static/media/greenimg.jpg": "/responsive-website/static/media/greenimg.c9bb557ca9433dee454b.jpg",
+    "static/media/IMAGE.jpg": "/responsive-website/static/media/IMAGE.f82d8defd302e92d3def.jpg",
+    "static/media/thrissur.jpg": "/responsive-website/static/media/thrissur.99cfc7a5b160904b3242.jpg",
+    "static/media/beach.jpg": "/responsive-website/static/media/beach.93644760ab9a18238f06.jpg",
+    "static/media/peprew.jpg": "/responsive-website/static/media/peprew.ea76c2293e09cd3e181a.jpg",
+    "static/media/rewpeople.jpg": "/responsive-website/static/media/rewpeople.86f4e3d45664ed3d099e.jpg",
+    "static/media/kovalam.jpg": "/responsive-website/static/media/kovalam.732619b26fc460dc76c9.jpg",
+    "static/media/rewimage.jpg": "/responsive-website/static/media/rewimage.d23879b85530a47b4f57.jpg",
+    "static/media/landscapet.jpg": "/responsive-website/static/media/landscapet.3d9995c4c8f590f8c7a4.jpg",
+    "static/media/sea2.jpg": "/responsive-website/static/media/sea2.64bed040a5948c708e3b.jpg",
+    "static/media/munnarr.jpg": "/responsive-website/static/media/munnarr.0a4bb9e7029714263eca.jpg",
+    "index.html": "/responsive-website/index.html",
+    "main.bf1a0db0.css.map": "/responsive-website/static/css/main.bf1a0db0.css.map",
+    "main.73a65317.js.map": "/responsive-website/static/js/main.73a65317.js.map",
+    "787.ddc7e641.chunk.js.map": "/responsive-website/static/js/787.ddc7e641.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf1a0db0.css",
-    "static/js/main.2cba0ba0.js"
+    "static/js/main.73a65317.js"
   ]
 }
